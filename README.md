@@ -2,7 +2,7 @@
 ### Everything you are. In one, simple link in bio.
 
 # Preview
-[Not Working](https://google.com)
+[Working](https://linkr-link.vercel.app/)
 
 # Todo
  -
